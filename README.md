@@ -1,6 +1,6 @@
 # Arbitrage Reality Check
 
-This project simulates arbitrage opportunities across two markets to test whether they remain profitable once real-world trading frictions are introduced. The goal is to explore how slippage, fees, latency, and volatility affect net profitability — and when theoretical profit vanishes in practice.
+This project simulates arbitrage opportunities across two markets to study whether they remain profitable once real-world trading frictions are introduced. The goal is to explore how slippage, fees, latency, and volatility affect net profitability and when theoretical profit vanishes in practice.
 
 ---
 
